@@ -1,9 +1,5 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "framework": "nextjs",
-  "regions": ["fra1"],
-  "env": {
-    "BASIC_AUTH_USER": "@basic-auth-user",
-    "BASIC_AUTH_PASSWORD": "@basic-auth-password"
-  }
+  "regions": ["fra1"]
 }
